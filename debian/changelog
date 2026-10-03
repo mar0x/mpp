@@ -1,3 +1,21 @@
+mpp (1.5.0-4+git20240612.239e15ea~resolute) resolute; urgency=medium
+
+  * Package for resolute
+
+ -- Max <rk-obs@yandex.ru>  Sat, 03 Oct 2026 19:58:20 +0300
+
+mpp (1.5.0-1+git20240612.2218dc0f~noble) noble; urgency=medium
+
+  * Package for noble
+
+ -- Jianfeng Liu <liujianfeng1994@gmail.com>  Thu, 13 Jun 2024 11:35:03 +0800
+
+mpp (1.5.0-1+git20240612.2218dc0f~jammy) jammy; urgency=medium
+
+  * Update to upstream 2218dc0f
+
+ -- Jianfeng Liu <liujianfeng1994@gmail.com>  Thu, 13 Jun 2024 10:24:56 +0800
+
 mpp (1.5.0-1) stable; urgency=critical
 
   * [mpp_enc_impl]: Cleanup hal_task on empty eos task
